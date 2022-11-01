@@ -1,4 +1,8 @@
-# co7924b16ba918a41f104aeac
+# TwitterClone
+
+##How to Use
+
+This is a Twitter clone. You can make posts, view replies to post, like posts, retweet posts, and delete post. 
 
 ## About Scrimba
 
@@ -11,3 +15,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
